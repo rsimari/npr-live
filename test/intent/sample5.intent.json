@@ -1,0 +1,7 @@
+{
+  "utterance": "Tune in to the news",
+  "intent_type": "NPRadioIntent",
+  "intent": {
+    "NPRadioKeyword": "news"
+  }
+}

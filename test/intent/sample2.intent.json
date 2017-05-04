@@ -1,0 +1,7 @@
+{
+  "utterance": "Play NPR.",
+  "intent_type": "NPRadioIntent",
+  "intent": {
+    "NPRadioKeyword": "play npr"
+  }
+}

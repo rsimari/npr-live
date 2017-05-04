@@ -1,0 +1,7 @@
+{
+  "utterance": "Play news station",
+  "intent_type": "NPRadioIntent",
+  "intent": {
+    "NPRadioKeyword": "station"
+  }
+}
